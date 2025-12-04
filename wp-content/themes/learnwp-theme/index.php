@@ -1,4 +1,5 @@
 <?php
-get_header();
+get_header();?>
+<h1> this is header!</h1><?php
 get_footer();
 ?>
