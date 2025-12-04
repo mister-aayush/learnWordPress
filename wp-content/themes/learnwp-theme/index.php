@@ -1,4 +1,4 @@
 <?php
-echo" HEllo world";
+get_header();
+get_footer();
 ?>
-
